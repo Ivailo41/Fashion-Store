@@ -115,5 +115,3 @@
 |----------------|--------|------------------------------|----------|
 | search=`query` | String | Filter cart items by name    | No       |
 | page=`num`     | Number | Get cart items on page `num` | No       |
-
-![image](./resources/Database.png)

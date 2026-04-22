@@ -3,4 +3,4 @@ Online store for selling clothing products. Built with Spring boot and Angular. 
 
 # Documentation
 ### [Endpoints](docs/Endpoints.md)
-
+### [Database ER](docs/DatabaseER.md)
